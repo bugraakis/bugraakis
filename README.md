@@ -14,21 +14,11 @@ Freshman · Building things in my free time · Always learning
 
 ---
 
-## Projects
 
 ### Personal
 
 I've worked on a few personal projects in my free time to practice and explore different areas of programming. More on the way.
 
-### School
-
-| Project | Description | Course |
-|---------|-------------|--------|
-| 📐 [Project Name] | [Short description] | [Course Name] |
-
-> *More coming soon as the semester goes on.*
-
----
 
 ## Tech I Use
 
