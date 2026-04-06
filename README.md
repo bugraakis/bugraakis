@@ -1,4 +1,4 @@
-# Hi, I'm Bugra 👋
+# Hi, I'm Buğra 👋
 
 **Computer Engineering Student @ Dokuz Eylül University**
 Freshman · Building things in my free time · Always learning
